@@ -30,6 +30,7 @@ After you have eliminated null values, use `.isna().any()` to verify that your f
 Make up some new values for a hypothetical new song.  Use your knn function to display a predicted peak_rank for the song. In this case, use a k value that is greater than 1.
 5. Make a copy of the data and normalize the training data using Z-score. Print out the first 5 lines of the normalized subset.
 Predict the peak rank with some input parameters using your k-nearest-neighbors function with both the normalized and non-normalized training data. Compare your results. Use a markup cell to describe and explain the cause of any differences. Detailed responses will receive full credit.
+6. Do something cool. Write it up in a text cell.
 
 To submit your work, copy the link to your github repository, and submit the link to the Blackboard assignment (please help me save a few clicks and make sure your link it clickable). 
 
